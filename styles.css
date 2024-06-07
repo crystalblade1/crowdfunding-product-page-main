@@ -324,7 +324,7 @@ hr{
 
 
 
-#input-number{
+.input-number{
     align-self: center;
     padding: 15px;
     border-radius: 30px;
@@ -524,7 +524,7 @@ hr{
     display: none;
 }
 
-#input-number{
+.input-number{
     width: 5rem;
     margin: 0;
     display: none;
