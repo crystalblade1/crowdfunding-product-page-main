@@ -24,6 +24,9 @@ nav{
         margin-left: 10rem;
         transform: scale(1.2);
     }
+    #menu{
+        display: none;
+    }
 }
 
 nav a{
@@ -391,13 +394,18 @@ hr{
             
           
         }
-        a{
+        a{  
             display: none;
         }
-        #menu{
-            align-self: center;
+      
+            #menu{
+                align-self: center;
+             
             
-        }
+            }
+
+        
+
     }
 
 
